@@ -8,6 +8,6 @@ class Myhome extends BaseController
 {
     public function index()
     {
-        return view('templates/myhome');
+        return view('templates/home');
     }
 }
