@@ -90,9 +90,9 @@
         <div class="row pt-5">
             <div class="col-lg-3 col-md-6 mb-5">
                 <a href="index.html" class="navbar-brand">
-                    <h1 class="m-0 mt-n2 text-white display-4">DOT.NET</h1>
+                    <h1 class="m-0 mt-n2 text-white display-4">VEDATRIX</h1>
                 </a>
-                <p>Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et</p>
+                <p>Web development software company Bidar</p>
                 <h6 class="text-uppercase text-white py-2">Follow Us</h6>
                 <div class="d-flex justify-content-start">
                     <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
@@ -103,10 +103,10 @@
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="text-uppercase text-white mb-4">Get In Touch</h4>
-                <p>Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et</p>
-                <p><i class="fa fa-map-marker-alt text-white mr-2"></i>123 Street, New York, USA</p>
-                <p><i class="fa fa-phone-alt text-white mr-2"></i>+012 345 67890</p>
-                <p><i class="fa fa-envelope text-white mr-2"></i>info@example.com</p>
+                <p>Near new bus stand Bidar</p>
+                <p><i class="fa fa-map-marker-alt text-white mr-2"></i>Bidar</p>
+                <p><i class="fa fa-phone-alt text-white mr-2"></i>+91 9901568368</p>
+                <p><i class="fa fa-envelope text-white mr-2"></i>info@vedatrix.xyz</p>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="text-uppercase text-white mb-4">Quick Links</h4>
@@ -121,7 +121,7 @@
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="text-uppercase text-white mb-4">Newsletter</h4>
-                <p class="mb-4">Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et</p>
+                <p class="mb-4">subscribe to our newsletter</p>
                 <div class="w-100 mb-3">
                     <div class="input-group">
                         <input type="text" class="form-control border-light" style="padding: 25px;" placeholder="Your Email">
@@ -130,13 +130,13 @@
                         </div>
                     </div>
                 </div>
-                <i>Lorem sit sed elitr sed kasd et</i>
+                <i>xxx</i>
             </div>
         </div>
     </div>
     <div class="container-fluid py-4 px-sm-3 px-md-5" style="background: #111111;">
-        <p class="mb-2 text-center text-white-50">&copy; <a href="#">Your Site Name</a>. All Rights Reserved.</p>
-        <p class="m-0 text-center text-white-50">Designed by <a href="https://htmlcodex.com">HTML Codex</a></p>
+        <p class="mb-2 text-center text-white-50">&copy; <a href="#">Vedatrix</a>. All Rights Reserved.</p>
+        <p class="m-0 text-center text-white-50">Designed by <a href="https://vedatrix.xyz">www.vedatrix.xyz</a></p>
     </div>
     <!-- Footer End -->
 
