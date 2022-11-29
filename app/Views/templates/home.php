@@ -9,9 +9,9 @@
                     <img class="img-fluid mb-4 mb-lg-0" src="img/about.jpg" alt="">
                 </div>
                 <div class="col-lg-6">
-                    <h1 class="display-4 text-uppercase mb-4">Best web company in BIDAR TOWN</h1>
-                    <h5 class="text-uppercase text-primary mb-3">Clita elitr et amet et ipsum sea. Ipsum stet kasd ea et no est duo diam. Lorem dolores eos ut nonumy ipsum sit clita lorem no amet dolor dolore, stet sit dolor justo</h5>
-                    <p class="mb-4">Eirmod est dolor nonumy sea amet dolore erat sit dolor et dolor vero. Tempor ipsum at justo amet at ipsum justo. Aiam kasd sea sit dolor duo elitr dolor amet, justo est ipsum amet dolor ut ipsum. Labore diam et nonumy amet dolores. Volup sit labore dolores erat, magna justo sed lorem kasd ea dolor. Labore sit clita invidunt, est dolores lorem sed ipsum kasd no amet ipsum.</p>
+                    <h1 class="display-4 text-uppercase mb-4">We are a web Development Company</h1>
+                    <h5 class="text-uppercase text-primary mb-3">That Cares for Your Success</h5>
+                    <p class="mb-4">Your company’s growth matters to us, as we are not here to just build you a website, but we are here to build a strong brand and online presence for your business. We take care of all your technology needs by providing you with a range of web application development services..</p>
                     <a href="" class="btn btn-primary text-uppercase py-3 px-5">Read More</a>
                 </div>
             </div>
@@ -29,28 +29,28 @@
                     <div class="service-item rounded p-5 mb-4">
                         <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
                         <h4 class="text-uppercase mb-4">Web <span class="d-block text-body">Design</span></h4>
-                        <p class="m-0">Vero amet vero eos kasd justo ipsum diam sed elitr</p>
+                        <p class="m-0">Start-off your new venture with a great online presence.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 mb-2">
                     <div class="service-item rounded p-5 mb-4">
                         <i class="fa fa-3x fa-code text-primary mb-4"></i>
                         <h4 class="text-uppercase mb-4">Web <span class="d-block text-body">Development</span></h4>
-                        <p class="m-0">Vero amet vero eos kasd justo ipsum diam sed elitr</p>
+                        <p class="m-0">Web For Growing Business with world class design patterns</p>
                     </div>
                 </div>
                 <div class="col-lg-3 mb-2">
                     <div class="service-item rounded p-5 mb-4">
                         <i class="fa fa-3x fa-envelope-open-text text-primary mb-4"></i>
                         <h4 class="text-uppercase mb-4">Digital <span class="d-block text-body">Marketing</span></h4>
-                        <p class="m-0">Vero amet vero eos kasd justo ipsum diam sed elitr</p>
+                        <p class="m-0">Top of the class digital marketing solutions</p>
                     </div>
                 </div>
                 <div class="col-lg-3 mb-2">
                     <div class="service-item rounded p-5 mb-4">
                         <i class="fa fa-3x fa-edit text-primary mb-4"></i>
                         <h4 class="text-uppercase mb-4">Content <span class="d-block text-body">Writing</span></h4>
-                        <p class="m-0">Vero amet vero eos kasd justo ipsum diam sed elitr</p>
+                        <p class="m-0">Engaging content for passionate readers to hook up to your business</p>
                     </div>
                 </div>
             </div>

@@ -69,11 +69,10 @@
     <div class="container-fluid bg-primary py-5 px-0" style="margin-bottom: 90px;">
         <div class="row mx-0 align-items-center">
             <div class="col-lg-6 px-md-5 text-center text-lg-left">
-                <h1 class="display-2 text-uppercase mb-3">Web Designing and Development Company</h1>
-                <p class="text-dark mb-4">We are industry leading web designing and 
-                    development company in Bidar
+                <h1 class="display-2 text-uppercase mb-3">Web Development <span>Services</span></h1>
+                <p class="text-dark mb-4">Vedatrix Technologies is known for the best website designing and development services. Businesses looking for fast growth and reduced workload choose us to develop their websites that amplify their brand value.
                 </p>
-                <a href="" class="btn btn-dark text-uppercase mt-1 py-3 px-5">Learn More</a>
+                <a href="" class="btn btn-dark text-uppercase mt-1 py-3 px-5">Let’s start a project together</a>
             </div>
             <div class="col-lg-6 px-0 text-right">
                 <img class="img-fluid mt-5 mt-lg-0" src="img/header.png" alt="">
@@ -92,7 +91,7 @@
                 <a href="index.html" class="navbar-brand">
                     <h1 class="m-0 mt-n2 text-white display-4">VEDATRIX</h1>
                 </a>
-                <p>Web development software company Bidar</p>
+                <p>Efficiency & Effectiveness in every step  of Web design and development</p>
                 <h6 class="text-uppercase text-white py-2">Follow Us</h6>
                 <div class="d-flex justify-content-start">
                     <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
@@ -103,7 +102,7 @@
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="text-uppercase text-white mb-4">Get In Touch</h4>
-                <p>Near new bus stand Bidar</p>
+                <p>Aditya enclave </p>
                 <p><i class="fa fa-map-marker-alt text-white mr-2"></i>Bidar</p>
                 <p><i class="fa fa-phone-alt text-white mr-2"></i>+91 9901568368</p>
                 <p><i class="fa fa-envelope text-white mr-2"></i>info@vedatrix.xyz</p>
@@ -130,7 +129,7 @@
                         </div>
                     </div>
                 </div>
-                <i>xxx</i>
+                <i>subscribe now</i>
             </div>
         </div>
     </div>
